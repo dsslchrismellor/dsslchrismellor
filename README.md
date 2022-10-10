@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsslchrismellor&label=Profile%20views&color=0e75b6&style=flat" alt="dsslchrismellor" /> </p>
 
-- 💻 Domain Owner of **Organisations / Centres**
-- 💻 Domain Owner of **Payments**
-- 💻 Domain Owner of **Blockchain**
+- 🏫 Domain Owner of **Organisations / Centres**
+- 💲 Domain Owner of **Payments**
+- ⛓ Domain Owner of **Blockchain**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsslchrismellor&show_icons=true&locale=en&layout=compact" alt="dsslchrismellor" /></p>
 
-[![Josh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsslchrismellor&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=dsslchrismellor&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
