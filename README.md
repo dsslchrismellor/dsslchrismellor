@@ -7,6 +7,6 @@
 - 💲 Domain Owner of **Payments**
 - ⛓ Domain Owner of **Blockchain**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsslchrismellor&show_icons=true&locale=en&layout=compact" alt="dsslchrismellor" /></p>
-
-[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=dsslchrismellor&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=dsslchrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dsslchrismellor&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsslchrismellor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
